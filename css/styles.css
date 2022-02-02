@@ -32,6 +32,9 @@ img {
 a {
   color: #FFE66D;
 }
+.work-experience > div> p> a {
+  color: #673AB7;
+}
 a:hover {
   text-decoration: none;
 }
@@ -109,7 +112,7 @@ header {
 /* Work Experience
 ------------------------------------*/
 .work-experience {
-  background: #A1C6D7;
+  background: #BED5DF;
 }
 
 
