@@ -19,7 +19,7 @@ html {
 }
 
 body {
-  color: #343434;
+  color: #000000; /* #343434; */
   margin: 0;
   padding: 0;
   font-family: 'Montserrat', sans-serif;
@@ -30,10 +30,11 @@ img {
   width: 300px;
 }
 a {
-  color: #FFE66D;
+  color: #780218;
 }
-.work-experience > div> p> a {
-  color: #673AB7;
+
+.contact-list > li > a {
+  color: #FFE66D;
 }
 a:hover {
   text-decoration: none;
@@ -48,14 +49,14 @@ h1 {
   line-height: 1;
 }
 h2 {
-  font-size: 45px;
+  font-size: 40px;
 }
 
 .content-wrap {
   max-width: 800px;
   width: 85%;
   margin: 0 auto;
-  padding: 60px 0;
+  padding: 15px 0;
 }
 .item-details h3 {
   margin-bottom: 0;
@@ -69,7 +70,7 @@ h2 {
 .divider > section {
   overflow: hidden;
   border-bottom: 1px dashed #343434;
-  padding: 25px 0;
+  padding: 10px 0;
 }
 .divider > section:last-of-type {
   border: none;
@@ -107,19 +108,19 @@ header {
   margin-top: 0;
 }
 
+/* Skills
+------------------------------------*/
+.skills {
+  background: #A1C6D7;
+}
 
 
 /* Work Experience
 ------------------------------------*/
 .work-experience {
-  background: #BED5DF;
+  background: #5b74673b;
 }
 
-/* Skills
-------------------------------------*/
-.skills {
-  background: #71977abf;
-}
 
 /* Education
 ------------------------------------*/
