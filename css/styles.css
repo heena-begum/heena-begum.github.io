@@ -134,6 +134,11 @@ header {
   width: 60%;
 }
 
+/* Work Authorization
+------------------------------------*/
+.workAuth {
+  background-color: #e1b781;
+}
 
 /* Contact Info
 ------------------------------------*/
